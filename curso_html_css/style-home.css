@@ -1,0 +1,100 @@
+header {
+	background: #dddddd;
+	padding: 20px 0;
+}
+
+.caixa {
+	position:relative;
+	width:940px;
+	margin: 0px auto;
+
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav ul li {
+	display: inline;
+	margin: 0 0 0 20px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration:none;
+}
+
+nav a:hover {
+	color: #C0C0C0;
+	text-decoration: underline;
+}
+
+.principal{
+	padding: 3em 0;
+	background: #BBBBBB;
+	width:940px;
+	margin: 20px auto;
+}
+
+
+
+#banner {
+	width: 100%;
+}
+
+h2 {
+	text-align: center;
+}
+
+p{
+	text-align: center;
+	padding: 4px;
+}
+
+#missão {
+	font-size: 20px
+}
+
+strong {
+	font-weight: bold;
+}
+
+em strong {
+	color: #0088CC;
+	font-weight: bold;
+}
+
+.beneficios{
+	background: #ffffffff;
+	padding: 3em 0;
+	width:940px;
+	margin: 20px auto;
+}
+
+.itens{
+	font-style: italic;
+	padding-top: 20px;
+	width: 100%;
+}
+
+.beneficios ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 45%;
+	padding-top: 20px;
+	
+}
+
+
+
+footer {
+	text-align: center;
+	background: url("bg.jpg");
+	padding: 40px 0;
+	color: #FFFFFF;
+}

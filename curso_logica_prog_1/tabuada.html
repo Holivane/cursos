@@ -1,0 +1,28 @@
+<meta charset="UTF-8">
+
+<script>
+    function pulaLinha() {
+        document.write("<br>");
+    }
+
+    function mostra(frase) {
+        document.write(frase);
+		pulaLinha();
+    }
+
+    var multiplicador=1;
+	var tabuada = prompt("digite um número");
+	
+	// while(multiplicador<=10){
+	//	mostra (7 * multiplicador);
+	//	multiplicador++;
+	//}
+		
+	mostra("A tabuada de " + tabuada + " é:");
+	pulaLinha();
+	
+	for(multiplicador;multiplicador<=10;multiplicador++) {
+		
+		mostra (tabuada * multiplicador);
+	}
+</script>
