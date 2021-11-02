@@ -25,3 +25,5 @@ function oferecerSeguro(obj){
 }
 
 oferecerSeguro(cliente)
+
+console.table(cliente)
