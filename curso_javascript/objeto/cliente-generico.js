@@ -9,6 +9,6 @@ function cliente (nome, cpf, email, saldo)
     }
 }
 
-const holivane = new cliente('Holivane','25468547895','holivane@emailç.com',100)
+const holivane = new cliente('Holivane','25468547895','holivane@email.com',100)
 
 console.log(holivane)
