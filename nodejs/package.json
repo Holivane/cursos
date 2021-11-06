@@ -6,14 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Holivane/cursos.git"
-  },
   "author": "holivane holanda",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Holivane/cursos/issues"
-  },
-  "homepage": "https://github.com/Holivane/cursos#readme"
+  "license": "ISC"
 }
