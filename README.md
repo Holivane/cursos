@@ -1,4 +1,4 @@
-<h1> Cursos </h1>
+<h1> Cursos Alura - Formação iniciante em programação </h1>
 
 Um repositório simples contendo os cursos iniciais feitos na Alura:
 <li>Lógica de Programação</li>
